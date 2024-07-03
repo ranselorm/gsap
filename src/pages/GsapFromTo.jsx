@@ -27,7 +27,6 @@ const GsapFromTo = () => {
   return (
     <main>
       <h1>GsapFromTo</h1>
-
       <p className="mt-5 text-gray-500">
         The <code>gsap.fromTo()</code> method is used to animate elements from a
         new state to a new state.
